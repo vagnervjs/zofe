@@ -6,7 +6,7 @@ module.exports = function(grunt){
         style: 'compressed'
       },
       files: {
-        'assets/css/main.css': 'assets/sass/main.sass'
+        'assets/css/main.css': '_assets/sass/main.sass'
       }
     },
 
@@ -15,7 +15,7 @@ module.exports = function(grunt){
         style: 'expanded'
       },
       files: {
-        'assets/css/main.css': 'assets/sass/main.sass'
+        'assets/css/main.css': '_assets/sass/main.sass'
       }
     }
 
