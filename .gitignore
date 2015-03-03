@@ -12,3 +12,4 @@ node_modules
 .sass-cache
 assets/css
 assets/js/vendor
+secrets
